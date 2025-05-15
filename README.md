@@ -6,12 +6,18 @@
 
 <p align="left"; text-align= justify;>
 Me chamo Luiza Lima de Queiroz, tenho 19 anos e sou natural de São Paulo, SP. Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. </p>
- 
- #
+
+<div align="left"> 
+ <h2>🔗 Redes Sociais</h2></h2>
+  <a href="https://instagram.com/Luizadqrz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:Luizalima_hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/luiza-lima-382424275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
 
 <div align="left">
   <h2>✨ Linguagens e Tecnologias</h2>
-
 <img 
     align="left" 
     alt="HTML"
@@ -54,9 +60,7 @@ Me chamo Luiza Lima de Queiroz, tenho 19 anos e sou natural de São Paulo, SP. S
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
-
+<br/><br/>
 
 
 <p>
@@ -77,13 +81,12 @@ Me chamo Luiza Lima de Queiroz, tenho 19 anos e sou natural de São Paulo, SP. S
 
 </p>
 
-#
 
 <br clear="both"/>
 <div align="left">
   <h2>🌸 Idiomas</h2>
   <p>
-    <strong>English:</strong> 
+    <strong>English:</strong> <br/>
     <strong>Spanish:</strong> 
   </p>
 </div>
