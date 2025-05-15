@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&width=500&lines=Hello!+I'm+Luiza!+%F0%9F%91%8B" alt="Hello! I'm Luiza!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&width=500&lines=Hello!+I'm+Luiza+Lima!+%F0%9F%91%8B" alt="Hello! I'm Luiza Lima!" />
 
 <!--
 **LuizaLima05/LuizaLima05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
