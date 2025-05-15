@@ -2,8 +2,6 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&width=500&lines=Hello!+I'm+Luiza+Lima!+%F0%9F%8C%B7%F0%9F%8E%80" alt="Hello! I'm Luiza Lima!" />
  
  #
-**Estudante com foco em Desenvolvimento Full Stack**
-
 <p align="left"; text-align= justify;>
 Me chamo Luiza Lima de Queiroz, tenho 19 anos e sou natural de São Paulo, SP. Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. </p>
 
