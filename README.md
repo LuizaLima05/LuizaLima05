@@ -3,7 +3,8 @@
  
 **Estudante com foco em Desenvolvimento Full Stack**
 
-Me chamo Luiza Lima de Queiroz, tenho 19 anos e sou natural do São Paulo, SP. Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p style="text-align: justify;">
+Me chamo Luiza Lima de Queiroz, tenho 19 anos e sou natural de São Paulo, SP. Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 ### 🤖 Linguagens e Tecnologias 
 
@@ -87,3 +88,4 @@ Me chamo Luiza Lima de Queiroz, tenho 19 anos e sou natural do São Paulo, SP. S
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizaLima05/LuizaLima05/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuizaLima05/LuizaLima05/output/github-contribution-grid-snake.svg">
 </picture>
+</p>
