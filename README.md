@@ -3,7 +3,9 @@
  
 **`Estudante com foco em Desenvolvimento Full Stack`**
 
-Me chamo Luiza Lima de Queiroz, tenho 19 anos e sou natural do São Paulo, SP. Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p style="text-align: justify;">
+Me chamo Luiza Lima de Queiroz, tenho 19 anos e sou natural de São Paulo, SP. Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+</p>
 
 ### 🤖 Linguagens e Tecnologias 
 
@@ -31,7 +33,6 @@ Me chamo Luiza Lima de Queiroz, tenho 19 anos e sou natural do São Paulo, SP. S
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -49,8 +50,7 @@ Me chamo Luiza Lima de Queiroz, tenho 19 anos e sou natural do São Paulo, SP. S
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+<br/><br/><br/>
 
 ### 📊 Estatísticas
 
@@ -63,24 +63,22 @@ Me chamo Luiza Lima de Queiroz, tenho 19 anos e sou natural do São Paulo, SP. S
     src="https://github-readme-stats.vercel.app/api?username=LuizaLima05&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaLima05&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaLima05&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
 <br clear="both"/>
 
-<div align="center">
-  <h2>🌐 Languages</h2>
-  <p>
-    <strong>English:</strong> 
-    <strong>Spanish:</strong> 
-  </p>
-</div>
+### 🌐 Languages
+
+**English:** Intermediate (B2) •  
+**Spanish:** Advanced (C1)
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizaLima05/LuizaLima05/output/github-contribution-grid-snake-dark.svg">
